@@ -8,3 +8,5 @@ So he said, make something so I know you can at least finish the simple tasks I 
 I then learnt unity for one week and finish this in 3 days. I consider this as my first successful  unity project.
 
 However it is made in such a short period that the comment for it is quite poor.
+
+This project was finally reviewed in unity 5.0 , so you might need that to open it.
