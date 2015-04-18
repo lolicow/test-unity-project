@@ -9,4 +9,4 @@ I then learnt unity for one week and finish this in 3 days. I consider this as m
 
 However it is made in such a short period that the comment for it is quite poor.
 
-This project was finally reviewed in unity 5.0 , so you might need that to open it.
+This project was finally reviewed in unity 5.0 , so you might need that to open it. And for some reason this version on github does not has the scene "begin" as default scene, so you might have to do it yourself in unity.
